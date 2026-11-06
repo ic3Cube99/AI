@@ -1,5 +1,7 @@
 # ping_ip.py — TCP reachability check via netutils
 
+![alt text](image-1.png)
+
 A minimal script that checks TCP reachability to a target IP/hostname and port using `netutils.ping.tcp_ping`. This is a TCP connect probe, not an ICMP echo "ping".
 
 ## File Location
